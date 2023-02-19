@@ -7,7 +7,7 @@ import numpy as np
 import pickle
 
 #load the model from the pickle file
-model = pickle.load(open('model.pkl','rb'))
+model = pickle.load(open('droped_model.pkl','rb'))
 
 
 # create a function that will take the inputs from the user
