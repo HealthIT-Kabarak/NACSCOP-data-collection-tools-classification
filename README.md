@@ -1,11 +1,11 @@
 ## 1.1 NACSCOP-data-collection-tools-classification:
 
   ## 1.1.0: Devs Name:
-    1. THALMA THANDIE
-    2. BRIAN KIMUTAI
-    3. BRANDSON KIPKIRUI
-    4. MUSHINDI RACHEL
-    5. EPHRAIM BLESSING MWEREZA
+    1. THALMA THANDIE - sthalma@kabarak.ac.ke
+    2. BRIAN KIMUTAI - bkurgat@kabarak.ac.ke
+    3. BRANDSON KIPKIRUI - vincentbettoh@gmail.com
+    4. MUSHINDI RACHEL - mushindi@kabarak.ac.ke
+    5. EPHRAIM BLESSING MWEREZA - emwereza@kabarak.ac.ke
 
   A model that advices on the indicator based on historical data values, facility characteristics, changes in the indicator, etc in making a choice on     the indicator to use
 
