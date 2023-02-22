@@ -18,11 +18,11 @@ NACSCOP will be able to make informed decisions on what indicator to use, ensuri
 To get started with this project, you will need to clone the repository and install the necessary dependencies. The code is written in Python, using various libraries such as NumPy, Pandas, and Scikit-learn.
 
 ## 1.5.1 Installation:
-  Git Clone
-    - https://github.com/HealthIT-Kabarak/NACSCOP-data-collection-tools-classification.git
+  ### Git Clone
+      https://github.com/HealthIT-Kabarak/NACSCOP-data-collection-tools-classification.git
     
-  Deploymeny:
-    - https://healthit.streamlit.app/
+  ### Deploymeny:
+       https://healthit.streamlit.app/
 
 ## 1.6 The repository contains the following files:
 
