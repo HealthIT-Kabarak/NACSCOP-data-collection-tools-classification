@@ -3,7 +3,7 @@
   ## 1.1.0: Devs Name:
     1. THALMA THANDIE - sthalma@kabarak.ac.ke
     2. BRIAN KIMUTAI - bkimutai@kabarak.ac.ke
-    3. BRANDSON KIPKIRUI - vincentbettoh@gmail.com
+    3. BRANDSON KIPKURUI - kbrandson@kabarak.ac.ke
     4. MUSHINDI RACHEL - mushindi@kabarak.ac.ke
     5. EPHRAIM BLESSING MWEREZA - emwereza@kabarak.ac.ke
 
